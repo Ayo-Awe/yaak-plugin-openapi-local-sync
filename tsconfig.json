@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "lib": ["ES2021", "DOM"],
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "Node",
+    "noEmit": true
+  },
+  "include": ["src"]
+}
